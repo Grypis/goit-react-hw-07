@@ -1,0 +1,13 @@
+.searchBoxContainer {
+  display: flex;
+  justify-content: center;
+  margin: 10px 0;
+}
+
+.searchBox {
+  padding: 8px;
+  width: 100%;
+  max-width: 400px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
